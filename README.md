@@ -2,10 +2,10 @@
 
 <p>In this project I will write SQL queries to explore library system management data in pgAdmin4.<p>
 <p>The objectives for this project include:<p>
-  <p>1.Set up the Library Management System Database: Create and populate the database with tables for branches, employees, members, books, issued status, and return status.<p>
-  <p>2.CRUD Operations: Perform Create, Read, Update, and Delete operations on the data.<p>
-  <p>3.CTAS (Create Table As Select): Utilize CTAS to create new tables based on query results.<p>
-  <p>4.Advanced SQL Queries: Develop complex queries inluding store procedures to analyze and retrieve specific data.<p>
+  <p>1. Set up the Library Management System Database: Create and populate the database with tables for branches, employees, members, books, issued status, and return status.<p>
+  <p>2. CRUD Operations: Perform Create, Read, Update, and Delete operations on the data.<p>
+  <p>3. CTAS (Create Table As Select): Utilize CTAS to create new tables based on query results.<p>
+  <p>4. Advanced SQL Queries: Develop complex queries inluding store procedures to analyze and retrieve specific data.<p>
 
 ```sql
 SELECT * FROM books;
